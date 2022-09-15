@@ -23,10 +23,12 @@ Conclusion of Basic ROS
     - [image_proc](http://wiki.ros.org/image_proc)
 3. Adjust the filepathes in `.../script/follow_line.py` and `.../script/follow_record.py`
 4. Launch files: 
+
     ```
     roslaunch youbot_driver_ros_interface youbot_driver.launch
     roslaunch find_line youbot_findline.launch
     ```
+
 5. Follow the hints on the screen
 
 ### Parameters of launch file
